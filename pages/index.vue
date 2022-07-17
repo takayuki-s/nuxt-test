@@ -2,6 +2,7 @@
   <div>
     index<br>
     <NuxtLink to="/about">about</NuxtLink>
+    <BaseHeader />
   </div>
 </template>
 

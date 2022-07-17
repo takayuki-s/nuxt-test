@@ -2,7 +2,7 @@
   <div>
     index<br>
     <NuxtLink to="/about">about</NuxtLink>
-    <BaseHeader />
+    <Header />
   </div>
 </template>
 

@@ -1,7 +1,9 @@
 <template>
   <div>
     about<br>
-    {{ now }}
+    {{ now }}<br>
+    <img src="~/assets/images/mountain.jpg" width="300px"><br>
+    <div class="red-b">assets/cssテスト</div>
   </div>
 </template>
 

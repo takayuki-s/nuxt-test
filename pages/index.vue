@@ -1,7 +1,8 @@
 <template>
   <div>
-    index<br>
+    index<br />
     <NuxtLink to="/about">about</NuxtLink>
+    <NuxtLink to="/video">video</NuxtLink>
     <BaseHeader />
   </div>
 </template>

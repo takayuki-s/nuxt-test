@@ -25,7 +25,7 @@
     <video
       src="/assets/videos/mov_hts-samp003.mp4"
       controls
-      width="250"
+      width="500"
     ></video>
   </div>
 </template>
